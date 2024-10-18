@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação na PUC Minas, campus Coração Eucarí
 
 ## 🚀 Tecnologias e Ferramentas
 - Linguagens: C, C++
-- Ferramentas: [Codeforces](https://codeforces.com/), [Beecrowd](https://www.beecrowd.com.br/)
+- Ferramentas: [Codeforces](https://codeforces.com/profile/GustavoLopesOliveira), [Beecrowd](https://judge.beecrowd.com/pt/profile/1004742)
 
 ## 🌱 Aprendizado
 Atualmente, estou focado em:
@@ -18,7 +18,7 @@ Atualmente, estou focado em:
 - Participação em cerimônias de premiação e conquistas em olimpíadas de matemática
 
 ## 📫 Como entrar em contato
-- [LinkedIn](link_do_seu_linkedin) (adicione seu link)
-- E-mail: seu_email@example.com (adicione seu e-mail)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-lopes-164551287/) 
+- E-mail: gustavolopesoliveira285@gmail.com 
 
 Sinta-se à vontade para entrar em contato ou colaborar em projetos!
