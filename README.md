@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação na PUC Minas, campus Coração Eucarí
 
 ## 🚀 Tecnologias e Ferramentas
 - Linguagens: C, C++
-- Ferramentas: [Codeforces](https://codeforces.com/profile/GustavoLopesOliveira), [Beecrowd](https://judge.beecrowd.com/pt/profile/1004742)
+- Plataformas de Estudo: [Codeforces](https://codeforces.com/profile/GustavoLopesOliveira), [Beecrowd](https://judge.beecrowd.com/pt/profile/1004742)
 
 ## 🌱 Aprendizado
 Atualmente, estou focado em:
