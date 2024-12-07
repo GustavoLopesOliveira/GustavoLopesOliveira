@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Estudante de Ciência da Computação na PUC Minas, com foco em algoritmos e programação competitiva.<br>🏆 Participante ativo da OBI e da Maratona de Programação, com sonhos de competir no ICPC.<br>🚀 Motivado a desenvolver habilidades avançadas em tecnologia para alcançar o Vale do Silício.<br>🎨 Comprometido com projetos de front-end e back-end, sempre buscando compartilhar meus estudos e projetos.<br>🌍 Explorando soluções para melhorar a educação e o acesso ao conhecimento por meio da tecnologia.
+💻 Estudante de Ciência da Computação na PUC Minas, com foco em algoritmos.<br>🏆 Participante da OBI e da Maratona de Programação.<br>🚀 Motivado a desenvolver habilidades avançadas em tecnologia .<br>🎨 Comprometido com projetos de front-end e back-end, sempre buscando compartilhar meus estudos e projetos.<br>🌍 Explorando soluções para melhorar a educação e o acesso ao conhecimento por meio da tecnologia.
 
 
 ## 🌐 Socials:
